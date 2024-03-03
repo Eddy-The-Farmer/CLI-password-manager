@@ -83,7 +83,8 @@ Make sure to handle errors appropriately when using password manager methods. Er
 You can also use the Password Manager as a CLI tool. After cloning the repository, you can run the following commands in your terminal:
 ```bash
 node index.js
-``` and follow the instruction on the teminal
+``` 
+and follow the instruction on the teminal
 
 ## Configuration
 The Password Manager can be configured to use different storage options. You can also configure the storage options to use different databases, tables, or collections.
