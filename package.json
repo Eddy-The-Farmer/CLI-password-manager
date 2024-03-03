@@ -1,0 +1,15 @@
+{
+  "name": "cli-tool",
+  "version": "1.0.0",
+  "description": "A password manager for cli",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eddy-the-farmer",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  }
+}
