@@ -14,6 +14,7 @@ npm install password-manager
 ```
 
 ## Usage
+### As a Package
 1 - Require the package in your Node.js application:
 ```javascript
 import PasswordManager from 'password-manager';
@@ -77,6 +78,12 @@ passwordManager.listPasswords();
 
 5 - Handle errors:
 Make sure to handle errors appropriately when using password manager methods. Errors might occur due to network issues, storage problems, or validation errors.
+
+### As a CLI Tool
+You can also use the Password Manager as a CLI tool. After cloning the repository, you can run the following commands in your terminal:
+```bash
+node index.js
+``` and follow the instruction on the teminal
 
 ## Configuration
 The Password Manager can be configured to use different storage options. You can also configure the storage options to use different databases, tables, or collections.
