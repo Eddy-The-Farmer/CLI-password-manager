@@ -1,5 +1,5 @@
 {
-  "name": "cli-tool",
+  "name": "cli-package-manager",
   "version": "1.0.0",
   "description": "A password manager for cli",
   "main": "index.js",
